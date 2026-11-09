@@ -29,7 +29,7 @@ The name comes from the Ancient Greek **ἀντίφωνος · antíphōnos** �
 
 ## Download
 
-The Windows x64 installer and its SHA-256 checksum are attached to the GitHub Release for **v0.1.0-preview**. This repository intentionally does not commit the installer binary.
+The Windows x64 installer and its SHA-256 checksum are attached to the GitHub Release for **v0.1.0-preview**. 
 
 - Installer: `Antiphon-PublicPreview-0.1.0-preview-x64-Setup.exe`
 - Checksums: [checksums/SHA256SUMS.txt](checksums/SHA256SUMS.txt)
@@ -75,9 +75,6 @@ The public repository is a **distribution repository**, not the application sour
 
 [![Antiphon Public Preview promotional thumbnail](media/preview-thumbnail.png)](https://github.com/Gonzo92/Antiphon-PublicPreview/releases/download/v0.1.0-preview/Antiphon_Public_Preview_Promo_1080p.mp4)
 
-The approved **73.813-second** 1080p promotional video is attached to the GitHub Release for v0.1.0-preview. [Watch or download the video](https://github.com/Gonzo92/Antiphon-PublicPreview/releases/download/v0.1.0-preview/Antiphon_Public_Preview_Promo_1080p.mp4). It is not committed to this repository.
-
-**Inline playback:** GitHub may require the MP4 to be uploaded through the browser attachment UI for inline README playback. The release-asset link above is the canonical download; the thumbnail links to it.
 
 ## Feedback
 
