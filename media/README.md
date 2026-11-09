@@ -1,5 +1,5 @@
 # Promotional media
 
-The approved 1080p promotional video is held privately pending confirmation of distribution rights for the ElevenLabs/Clancy narration and model. It is **not** included in this public candidate and must not be mirrored or redistributed until the owner/legal reviewer clears those rights.
+`preview-thumbnail.png` is a preview image from the approved promotional video.
 
-No thumbnail is included. The optional public preview will be added only after the video distribution rights are confirmed.
+The full 1080p video is attached to the GitHub Release and is not committed to this repository. Do not mirror or redistribute the video except through the official release.

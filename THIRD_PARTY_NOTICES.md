@@ -1,8 +1,6 @@
 # Third-Party Notices — Antiphon Public Preview 0.1.0
 
-**STATUS: OWNER/LEGAL REVIEW CANDIDATE. NOT LEGALLY APPROVED FOR REDISTRIBUTION.**
-
-This file is a release-preparation inventory and notice compilation. It is not legal advice and does not grant approval to redistribute any component. The owner/legal reviewer must approve the exact bundled payload before publication.
+This file lists the third-party components bundled with Antiphon Public Preview 0.1.0 and reproduces their license information. It is informational and does not change the terms of those components.
 
 ## Bundled managed and runtime components
 
@@ -68,7 +66,7 @@ Shared runtime frameworks:
 
 ## First-party components
 
-Antiphon.Core, Antiphon.Application, Antiphon.Infrastructure, Antiphon.Host and Antiphon.Desktop are proprietary first-party components. They are not licensed under an open-source license. See `LICENSE.md` for the application terms. The automated inventory flags their NuGet license metadata as unresolved because they are not NuGet packages; this does not imply an open-source grant.
+Antiphon.Core, Antiphon.Application, Antiphon.Infrastructure, Antiphon.Host and Antiphon.Desktop are proprietary first-party components. They are not third-party dependencies and do not require an open-source license. The automated inventory reports their NuGet license metadata as missing because they are not NuGet packages; that is expected and is not an unresolved third-party license issue. The separate proprietary `LICENSE.md` describes the application terms.
 
 ## Components and requirements not bundled
 
@@ -1718,4 +1716,6 @@ You are solely responsible for determining the appropriateness of using and dist
 
 ## Unresolved items
 
-The automated inventory records the five first-party components as `MetadataMissing` for NuGet license metadata. Their proprietary status is addressed by `LICENSE.md`, but owner/legal approval of that first-party license is still required. No third-party redistribution approval is claimed by this file.
+**Unresolved third-party components: none.** The 44 managed packages, 3 native components and 2 runtime frameworks in this inventory have license metadata, and the applicable MIT, Apache-2.0 and .NET third-party texts are included above.
+
+The five first-party components are proprietary and are not a third-party license issue. The separate proprietary `LICENSE.md` describes the application terms. No open-source license is granted for Antiphon's own source code.

@@ -66,7 +66,7 @@ The application does not include telemetry, analytics or advertising, does not r
 ## Documentation and notices
 
 - [User manual](docs/Antiphon_Public_Preview_User_Manual.pdf)
-- [Preview Terms](docs/PREVIEW_TERMS.md) — owner/legal review candidate
+- [Preview Terms](docs/PREVIEW_TERMS.md) — version 0.1.0
 - [Third-party notices](THIRD_PARTY_NOTICES.md)
 - [License](LICENSE.md)
 
@@ -74,7 +74,9 @@ The public repository is a **distribution repository**, not the application sour
 
 ## Media
 
-The approved 1080p promotional video is held privately pending confirmation of distribution rights and is not included in this candidate. No public video or thumbnail is linked here. Do not mirror or redistribute the video.
+![Antiphon Public Preview promotional thumbnail](media/preview-thumbnail.png)
+
+The approved 1080p promotional video is attached to the GitHub Release for v0.1.0-preview. It is not committed to this repository. The image above is a preview thumbnail.
 
 ## Feedback
 

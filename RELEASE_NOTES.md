@@ -4,7 +4,7 @@
 **Application version:** 0.1.0-preview  
 **Platform:** Windows x64, self-contained  
 **Installer:** `Antiphon-PublicPreview-0.1.0-preview-x64-Setup.exe`  
-**SHA-256:** `2c500e42a8364360b80931dcb0d522f08668bd52c9084fc3ae10e9f343421359`
+**SHA-256:** `589d6d5d8eb8daf102a9ba88dbd15665ac5a3b5bdaca7acc23c2c693643bf9a2`
 
 ## What is included
 
@@ -56,9 +56,9 @@ The installer preserves user settings, scripts and Results outside the applicati
 - Streaming may fail if the live broadcast is offline, the YouTube handler is absent or connectivity is unsuitable.
 - Linux is in development and is not part of this release.
 
-## Legal and distribution status
+## License and notices
 
-Preview Terms and third-party notices are included as owner/legal review candidates. **They are not marked approved by this build.** Publication of this package remains subject to owner/legal approval of the terms, third-party notices and the promotional video distribution rights.
+Antiphon Public Preview is proprietary freeware, not an open-source release. Its source code is not publicly distributed. Free use is limited to personal or internal testing and evaluation. Third-party components remain subject to their respective licenses; see `THIRD_PARTY_NOTICES.md`. Preview Terms version 0.1.0 are included in the installer and public documentation.
 
 ## Feedback
 
