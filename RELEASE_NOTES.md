@@ -41,7 +41,7 @@ The compiled Public Preview channel enforces the device and active-time limits. 
 2. Verify its SHA-256 against `checksums/SHA256SUMS.txt`.
 3. Run the per-user installer. It creates Start Menu shortcuts for the application and the manual.
 4. Keep or choose the Scripts directory. Existing user YAML is never overwritten; missing starters are created.
-5. Launch Antiphon, complete First Run and verify **Settings â†’ About**.
+5. Launch Antiphon, complete First Run and verify **Settings → About**.
 
 The installer preserves user settings, scripts and Results outside the application directory during upgrade and uninstall.
 
