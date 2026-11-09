@@ -75,7 +75,7 @@ The public repository is a **distribution repository**, not the application sour
 
 ![Antiphon Public Preview promotional thumbnail](media/preview-thumbnail.png)
 
-The approved 1080p promotional video is attached to the GitHub Release for v0.1.0-preview. It is not committed to this repository. The image above is a preview thumbnail.
+The approved 73.813-second 1080p promotional video is attached to the GitHub Release for v0.1.0-preview. It is not committed to this repository. The image above is a preview thumbnail.
 
 ## Feedback
 

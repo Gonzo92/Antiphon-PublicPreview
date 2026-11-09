@@ -60,6 +60,10 @@ The installer preserves user settings, scripts and Results outside the applicati
 
 Antiphon Public Preview is proprietary freeware, not an open-source release. Its source code is not publicly distributed. Free use is limited to personal or internal testing and evaluation. Third-party components remain subject to their respective licenses; see `THIRD_PARTY_NOTICES.md`. Preview Terms version 0.1.0 are included in the installer and public documentation.
 
+## Promotional video
+
+A 73.813-second 1080p H.264/AAC promotional video is attached to the GitHub Release. It is not committed to the repository. Inline README playback may require a GitHub user-attachment URL.
+
 ## Feedback
 
 Use the GitHub issue tracker or email **galaz92@gmail.com**. Include the build/channel, exact action and sanitized evidence. Do not include real phone numbers, credentials or private device data.
