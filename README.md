@@ -73,9 +73,11 @@ The public repository is a **distribution repository**, not the application sour
 
 ## Media
 
-![Antiphon Public Preview promotional thumbnail](media/preview-thumbnail.png)
+[![Antiphon Public Preview promotional thumbnail](media/preview-thumbnail.png)](https://github.com/Gonzo92/Antiphon-PublicPreview/releases/download/v0.1.0-preview/Antiphon_Public_Preview_Promo_1080p.mp4)
 
-The approved 73.813-second 1080p promotional video is attached to the GitHub Release for v0.1.0-preview. It is not committed to this repository. The image above is a preview thumbnail.
+The approved **73.813-second** 1080p promotional video is attached to the GitHub Release for v0.1.0-preview. [Watch or download the video](https://github.com/Gonzo92/Antiphon-PublicPreview/releases/download/v0.1.0-preview/Antiphon_Public_Preview_Promo_1080p.mp4). It is not committed to this repository.
+
+**Inline playback:** GitHub may require the MP4 to be uploaded through the browser attachment UI for inline README playback. The release-asset link above is the canonical download; the thumbnail links to it.
 
 ## Feedback
 
