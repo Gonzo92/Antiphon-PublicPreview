@@ -26,7 +26,6 @@ The name comes from the Ancient Greek **ἀντίφωνος · antíphōnos** �
 - Device Lanes is limited to verified M1/M2. M3/M4 Device Lanes, Network Recovery, Reboot Recovery and unqualified Device Lanes operations are not part of the preview.
 - CALL KPI values remain unavailable; no modem values are fabricated.
 
-**Extended Preview** is available on request. There is no automated licensing or entitlement service.
 
 ## Download
 

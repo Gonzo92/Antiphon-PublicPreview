@@ -4,7 +4,7 @@
 **Application version:** 0.1.0-preview  
 **Platform:** Windows x64, self-contained  
 **Installer:** `Antiphon-PublicPreview-0.1.0-preview-x64-Setup.exe`  
-**SHA-256:** `589d6d5d8eb8daf102a9ba88dbd15665ac5a3b5bdaca7acc23c2c693643bf9a2`
+**SHA-256:** `4cc3820c660e40ba57735e714ee8435104a0ac443834c4e83ff4b8058c80044b`
 
 ## What is included
 
@@ -41,7 +41,7 @@ The compiled Public Preview channel enforces the device and active-time limits. 
 2. Verify its SHA-256 against `checksums/SHA256SUMS.txt`.
 3. Run the per-user installer. It creates Start Menu shortcuts for the application and the manual.
 4. Keep or choose the Scripts directory. Existing user YAML is never overwritten; missing starters are created.
-5. Launch Antiphon, complete First Run and verify **Settings → About**.
+5. Launch Antiphon, complete First Run and verify **Settings â†’ About**.
 
 The installer preserves user settings, scripts and Results outside the application directory during upgrade and uninstall.
 
