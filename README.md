@@ -77,7 +77,6 @@ The public repository is a **distribution repository**, not the application sour
 
 https://github.com/user-attachments/assets/f6307c38-7d98-46d1-93a1-812855785e54
 
-[Watch or download the 73.813-second video from the GitHub Release](https://github.com/Gonzo92/Antiphon-PublicPreview/releases/download/v0.1.0-preview/Antiphon_Public_Preview_Promo_1080p.mp4) as a fallback.
 
 ## Feedback
 
