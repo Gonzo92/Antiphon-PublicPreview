@@ -1,6 +1,6 @@
-# ANTIPHON — MOBILE TEST BENCH
-
-**Independent by design. In sync when it matters.**
+<p align="center">
+  <img src="media/antiphon-header.png" alt="Antiphon — Mobile Test Bench" width="100%" />
+</p>
 
 Antiphon is an independently built Windows desktop application for real-device Android test automation. It is created and maintained by one developer, Mateusz Gałązka (GNZ).
 
